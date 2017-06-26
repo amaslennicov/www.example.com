@@ -1,2 +1,3 @@
 # www.example.com
-just an example
+
+same example,but better
